@@ -1,0 +1,89 @@
+
+-Sistema operativo: Ubuntu
+
+TECLAS: 
+*************
+	M : cambiar modo de visualización
+	P : cambiar la práctica activa
+	O : cambiar objeto activo dentro de la práctica
+	V : activar/desactivar modo diferido
+
+PRÁCTICA 4:
+*************
+-Se ha ha implementado toda la funcionalidad pedida en la práctica.
+
+-Se han añadido materiales al grafo de escena de la práctica 3. La clase utilizada con el material se llama MaterialTanque (material.cpp) el grafo de escena del tanque con los materiales incluido se puede ver en modelo.cpp (fichero en el que tengo todos los grafos de escena realizados)
+
+Además de las teclas anteriormente definidas, esta práctica incluye:
+	G: conmutar entre el ángulo alfa y beta
+	>: aumentar valor del ángulo actual
+	<: disminuir valor del ángulo actual
+
+
+PRÁCTICA 5:
+*************
+-Se ha ha implementado toda la funcionalidad pedida en la práctica.
+
+-Teclas:
+	C: cambiar de cámara
+	V: Modo examinar/primera persona
+	Flecha izq, dech, arriba, abajo: deplazamientos o rotaciones cámara
+	+, -: Deplazar cámara hacia atrás o adelante
+
+	Además se dispondrá de las teclas del ratón para seleccionar y mover.
+
+
+PRÁCTICA 1:
+*************
+
+-Programación del cauce gráfico: SI
+ 	fragment-shader.glsl
+ 	vertex-shader.glsl
+
+-Implementación de alguna funcionalidad no descrita en el guión: NO
+
+
+PRÁCTICA 2:
+**************
+
+-Implementación modo diferido: SI
+
+-Implementación de alguna funcionalidad no descrita en el guión: NO
+
+
+PRÁCTICA 3:
+**************
+
+Nuevas teclas:
+
+	G: activa el grado de libertad siguiente al actual
+	A: activar o desactivar animación
+	R: reinicializar todos los parámetros del modelo, desactivar animaciones.
+
+	-Con las animaciones desactivadas:
+		
+		>: incrementar el valor del grado de libertad actual
+		<: decrementar el valor del grado de libertad actual
+
+	-Con las animaciones desactivadas:
+
+		>: aumentar la velocidad del grado de libertad actual
+		<: disminuir la velocidad del grado de libertad actual
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

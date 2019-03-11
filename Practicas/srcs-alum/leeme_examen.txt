@@ -1,0 +1,8 @@
+Los archivos modificados son:
+
+modelo.hpp y modelo.cpp donde se encuentran las clases de cilindro, disco y moneda, además de que se 
+han añadido tres monedas a la escena de la lata y los peones.
+
+material.hpp y material.cpp donde se han añadido dos nuevos materiales uno para el canto y otro para la cara de la moneda.
+
+
